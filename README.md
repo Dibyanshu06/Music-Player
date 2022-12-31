@@ -1,3 +1,2 @@
 # Music-Player
-
-This is simple song app which will play all songs currently located in your phone
+It is a Software project supporting all known media files and has the ability to play them with ease
